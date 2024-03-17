@@ -1,2 +1,2 @@
 # CS201
-Course: CS201 - Data structures &amp; Algorithms (2nd year)
+This repository contains all my codes from the CS201 course in the spring semester at Fulbright University of Vietnam (2nd year).
